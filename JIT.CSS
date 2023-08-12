@@ -1,0 +1,189 @@
+.anane{
+    width: 90%;
+    margin: auto;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    
+}    
+.anane ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 15px;
+}    
+.anane ul li a{
+    text-decoration: none;
+    color: rgb(0, 15, 256);
+    font-weight: bolder;
+}  
+.west{
+    margin-top: 20px;
+    
+}  
+.pep p{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 100px;
+}  
+.martial{
+    display: flex;
+    
+}
+.martial img{
+    margin-top: 40px;
+}
+.pencil{
+    font-weight:bolder;
+    font-size: 25px;
+
+}
+.martial input[ type="button"]
+{
+    height: 55px;
+    background:rgb(27, 27, 88);
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    border-radius:35px;
+    width: 150px;
+    margin-left: 150px;
+
+    
+}  
+.pen{
+    display: flex;
+    gap: 50px;
+
+}
+
+.martial{
+    box-shadow:15px 0px 10px 2px grey;
+    margin:100px auto;
+    padding: 20px;
+    height: 550px;
+    width: 1000px;
+}
+.ansu{
+    font-size: 18px;
+}
+.wet{
+    box-shadow:15px 0px 10px 2px grey;
+    margin:100px auto;
+    padding: 20px;
+    height: 550px;
+    width: 1000px;
+    margin-top: -80px;
+    
+}
+.pen input[ type="button"]
+{
+    height: 55px;
+    background:rgb(27, 27, 88);
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    border-radius:35px;
+    width: 150px;
+    margin-left: 150px;
+
+}   
+.yellow{
+    color: rgb(27, 27, 88);
+    font-weight: bolder;
+    font-size: 35px;
+    margin-left: 100px;
+    
+
+} 
+
+.shoe{
+    font-size: 20px;
+    color: rgb(4, 200, 230);
+    margin-left: 100px;
+    
+    
+    
+}
+.table{
+    float: right;
+    
+    padding:100px ;
+
+    
+}
+.bible{
+    margin-top: 100px;
+}
+.cedis{
+
+    margin-top: 200px;
+    left: 100px;
+}
+.dollars{
+    float: left;
+    padding: 100px;
+}
+.minus{
+    margin-right: 700px;
+    
+
+}
+.lebron{
+ margin-left: 700px;
+}
+.earn{
+    
+    color: rgb(27, 27, 88);
+    font-weight: bolder;
+    font-size: 35px;
+}
+.curry{
+    font-size: 20px;
+    color: black;
+    font-weight: bolder;
+}
+.lebron{
+    color: rgb(4, 200, 230);
+    font-size:20px ;
+}
+.points{
+    float: right;
+    
+    padding:100px ;
+
+    
+}
+.moon{
+    color: rgb(27, 27, 88);
+    font-weight: bolder;
+    font-size: 35px;
+    margin-left: 100px;
+}
+.bottle{
+    font-size: 20px;
+    color:black;
+    margin-left: 100px;
+    font-weight: bold;
+     
+}
+.sun{
+    margin-left: 100px; 
+}
+.foam{
+    font-size: 18px;
+    color: rgb(4, 200, 230);;
+    margin-left: 100px;
+    font-weight: bold; 
+}
+
+
+
+
+
+
+
+
+    
+ 
+    
+    
